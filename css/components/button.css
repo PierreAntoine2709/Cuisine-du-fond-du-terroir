@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: rgba(22, 56, 96, .5);
+	padding: 15px 20px; 
+	border-radius: 1.5em;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 140px;
+	margin: 80px 100px 100px 1000px;
+
+
+}
+
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
